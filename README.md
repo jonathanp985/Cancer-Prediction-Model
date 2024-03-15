@@ -17,6 +17,7 @@
   - (M) Malignant - 1
   - (B) Benign - 0
 
+- Predicts with about a 98% accuracy
 
 - Dataset found at https://www.ybifoundation.org
 - Inspiration article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7472205/
