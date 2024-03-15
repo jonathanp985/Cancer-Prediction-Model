@@ -13,9 +13,9 @@
   - symmetry
   - fractal dimension (coastline approximation - 1)
 
-  Diagnosis:
--   (M) Malignant - 1
--   (B) Benign - 0
+- Diagnosis:
+  - (M) Malignant - 1
+  - (B) Benign - 0
 
 
 - Dataset found at https://www.ybifoundation.org
