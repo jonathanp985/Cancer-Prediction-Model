@@ -2,8 +2,8 @@
   
 - Data is made of of properties of a cellular nucleus such as:
   
-  -radius (mean of distances from center to points on the perimeter)
-  -texture (standard deviation of gray-scale values)
+  - radius (mean of distances from center to points on the perimeter)
+  - texture (standard deviation of gray-scale values)
   - perimeter
   - area
   - smoothness (local variation in radius lengths)
