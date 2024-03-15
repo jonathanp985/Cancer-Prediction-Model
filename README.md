@@ -2,16 +2,16 @@
   
 - Data is made of of properties of a cellular nucleus such as:
   
-  radius (mean of distances from center to points on the perimeter)
-  texture (standard deviation of gray-scale values)
-  perimeter
-  area
-  smoothness (local variation in radius lengths)
-  compactness (perimeter^2 / area - 1.0)
-  concavity (severity of concave portions of the contour)
-  concave points (number of concave portions of the contour)
-  symmetry
-  fractal dimension (coastline approximation - 1)
+  -radius (mean of distances from center to points on the perimeter)
+  -texture (standard deviation of gray-scale values)
+  - perimeter
+  - area
+  - smoothness (local variation in radius lengths)
+  - compactness (perimeter^2 / area - 1.0)
+  - concavity (severity of concave portions of the contour)
+  - concave points (number of concave portions of the contour)
+  - symmetry
+  - fractal dimension (coastline approximation - 1)
 
   Diagnosis:
 -   (M) Malignant - 1
