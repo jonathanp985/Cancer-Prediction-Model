@@ -1,6 +1,6 @@
 - Neural Network model in tensorflow that utilizes binary logistic regression in order to predict a cancer diagnosis
   
-- Data is made of of properties of a cellular nucleus such as:
+- Data is made of properties of a cellular nucleus such as:
   
   - radius (mean of distances from center to points on the perimeter)
   - texture (standard deviation of gray-scale values)
